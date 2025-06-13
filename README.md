@@ -19,9 +19,3 @@ SimpleVoiceDistance adds three voice modes (Whisper, Normal, Shout), each of whi
 **Visual feedback:** Colorful particles display your current voice range in‑game
 
 **Quick key‑press switching:** Switch voice modes instantly with one key—perfect for RP scenarios
-
-### 📣 Support & Feedback
-
-**Report bugs, suggest features, or ask questions on GitHub:** Coming Soon
-
-**Join our Discord:** Coming Soon
