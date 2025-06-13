@@ -1,4 +1,4 @@
-### **SimpleVoice Distance**
+### **🔊 SimpleVoice Distance**
 
 With SimpleVoice Distance, players can now cycle between Whisper, Normal, and Shout modes with a single key press—perfect for roleplay servers!
 
